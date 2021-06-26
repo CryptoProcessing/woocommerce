@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+msgid "Enable/Disable"
+msgstr "Вкл/Выкл"
+
+msgid "Enable CryptoProcessing Payment Gateway"
+msgstr "Включить платежный шлюз CryptoProcessing"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "Это контролирует заголовок, который пользователь видит во время оформления заказа."
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "Это контролирует описание, которое пользователь видит во время оформления заказа."
+
+msgid "Test mode"
+msgstr "Тестовый режим"
+
+msgid "Enable test mode"
+msgstr "Включить тестовый режим"
+
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr "Переведите платежный шлюз в тестовый режим с помощью тестовых ключей API."
+
+msgid "Test API Key"
+msgstr "Тестовый ключ API"
+
+msgid "Test Store ID"
+msgstr "ID тестового магазина"
+
+msgid "API Key"
+msgstr "Ключ API"
+
+msgid "Store ID"
+msgstr "ID магазина"
+
+msgid "Success, your order is paid. Thank you!"
+msgstr "Успех, ваш заказ оплачен. Спасибо!"
+
+msgid "Please try again."
+msgstr "Пожалуйста, попробуйте еще раз."
+
+msgid "Connection error."
+msgstr "Ошибка соединения."
+
+msgid "Something is wrong!"
+msgstr "Что-то не так!"
+
+msgid "API key is not set! You can get is from your account dashboard."
+msgstr "Ключ API не установлен! Вы можете получить его в личном кабинете."
+
+msgid "Store ID is not set! You can get is from your account dashboard."
+msgstr "Идентификатор магазина не установлен! Вы можете получить его в личном кабинете."
